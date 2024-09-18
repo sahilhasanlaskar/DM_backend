@@ -1,0 +1,13 @@
+{
+  "datasetName": "Sample Dataset",
+  "description": "This is a sample dataset for testing purposes",
+  "category": "Finance",
+  "numberOfRecords": 1000,
+  "source": "Sample Source",
+  "licenseType": "Creative Commons",
+  "dataQualityMetrics": "High",
+  "keywords": ["finance", "sample", "test"],
+  "languages": ["English"],
+  "dataCollectionMethodology": "Random Sampling",
+  "privacyCompliance": "GDPR compliant"
+}
